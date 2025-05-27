@@ -1,0 +1,22 @@
+[
+  {
+    "prompt": "<Question>\nদেশের প্রথম বায়ু বিদ্যুৎ কেন্দ্র কোন জেলায় অবস্থিত?\nOptions:\n(a) ফেনী\n(b) কক্সবাজার\n(c) চাঁদপুর\n(d) বাগেরহাট\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<a>"
+  },
+  {
+    "prompt": "<Question>\nরূপপুর পারমাণবিক কেন্দ্র কোথায় অবস্থিত?\nOptions:\n(a) কেরানীগঞ্জ, ঢাকা\n(b) বাঁশখালী, চট্টগ্রাম\n(c) ভেড়ামারা, কুষ্টিয়া\n(d) ঈশ্বরদী, পাবনা\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<d>"
+  },
+  {
+    "prompt": "<Question>\nজিআই পণ্য হিসেবে স্বীকৃত প্রথম বাংলাদেশী পণ্য-\nOptions:\n(a) ক্ষীরসাপাতি আম\n(b) ঢাকাই মসলিন\n(c) ইলিশ মাছ\n(d) জামদানি শাড়ী\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<d>"
+  },
+  {
+    "prompt": "<Question>\nনিচের কোন জেলা রেশম গুটি উৎপাদনের জন্য বিখ্যাত?\nOptions:\n(a) ভোলা\n(b) নাটোর\n(c) রাজশাহী\n(d) সিলেট\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<c>"
+  },
+  {
+    "prompt": "<Question>\nবাংলাদেশের জলবিদ্যুৎ কেন্দ্রটির নাম কি?\nOptions:\n(a) ভেড়ামারা\n(b) রূপপুর\n(c) কাপ্তাই\n(d) পাকশী\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<c>"
+  }
+]

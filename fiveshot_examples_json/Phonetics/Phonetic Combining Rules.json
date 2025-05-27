@@ -1,0 +1,22 @@
+[
+  {
+    "prompt": "<Question>\n'বিচ্ছিন্ন' শব্দের সন্ধি বিচ্ছেদ কোনটি?\nOptions:\n(a) বিচ + ছিন্ন\n(b) বি + ছিন্ন\n(c) বিৎ + চ্ছিন\n(d) বিৎ + ছিন্ন\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<b>"
+  },
+  {
+    "prompt": "<Question>\nসন্ধিযোগে গঠিত শব্দ-\nOptions:\n(a) নীলোৎপল\n(b) বিপদাপন্ন\n(c) ফুলেল\n(d) পরাজয়\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<a>"
+  },
+  {
+    "prompt": "<Question>\nআ + ও = ঔ এই নিয়মে সন্ধিবদ্ধ শব্দ কোনটি?\nOptions:\n(a) মহৌষধি\n(b) মহৌষধ\n(c) বনৌষধি\n(d) পরমৌষধ\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<a>"
+  },
+  {
+    "prompt": "<Question>\n'বিমুগ্ধ' শব্দের সন্ধি বিচ্ছেদ কোনটি?\nOptions:\n(a) বিমুহ্‌ + ত = বিমুগ্ধ\n(b) বিমুগ্‌ + ধ = বিমুগ্ধ\n(c) বিমুখ + ধ = বিমুগ্ধ\n(d) বিমুঃ + ধ = বিমুগ্ধ\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<a>"
+  },
+  {
+    "prompt": "<Question>\n'গায়ক' শব্দের সন্ধি বিচ্ছেদ-\nOptions:\n(a) গা + অক\n(b) গায় + অক\n(c) গৈ + অক\n(d) গৌ + অক\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<c>"
+  }
+]

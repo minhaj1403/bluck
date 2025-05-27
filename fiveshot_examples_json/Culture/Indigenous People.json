@@ -1,0 +1,22 @@
+[
+  {
+    "prompt": "<Question>\nঝুমুর গান কোন সম্প্রদায়ের পার্বণ?\nOptions:\n(a) রাখাইন\n(b) গারো\n(c) লুসাই\n(d) সাঁওতাল\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<d>"
+  },
+  {
+    "prompt": "<Question>\nবেদে বা বাইদ্যা নামে পরিচিত ভ্রাম্যমাণ জনগোষ্ঠীর আদি নাম কী?\nOptions:\n(a) আরকান\n(b) রাজবংশী\n(c) মনতং\n(d) বেদী\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<c>"
+  },
+  {
+    "prompt": "<Question>\nমণিপুরীদের পূর্বপুরুষদের নাম হলো\nOptions:\n(a) সুমাইয়ম\n(b) পাখাংবা\n(c) চন্দো\n(d) মাইতে\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<d>"
+  },
+  {
+    "prompt": "<Question>\nগারোদের সবচেয়ে বড় ধর্মীয় ও সামাজিক উৎসবের নাম কী?\nOptions:\n(a) বিঝু\n(b) ওয়ানগালা\n(c) সান্দ্রে\n(d) সাংগ্রাই\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<b>"
+  },
+  {
+    "prompt": "<Question>\n'বৈসাবি' কোন অঞ্চলের ক্ষুদ্র নৃ-গোষ্ঠী উৎসব?\nOptions:\n(a) পার্বত্য চট্টগ্রাম\n(b) সিলেট\n(c) মনময়নসিংহ\n(d) রংপুর\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<a>"
+  }
+]

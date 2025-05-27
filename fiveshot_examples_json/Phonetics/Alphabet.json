@@ -1,0 +1,22 @@
+[
+  {
+    "prompt": "<Question>\nযথাক্রমে ষ্ণ এবং হ্ন - এর বিশিষ্ট রূপ দেখান।\nOptions:\n(a) ষ + ঞ, হ + ণ\n(b) ষ + ন, হ + ণ\n(c) ষ্‌ +,ণ, হ্‌ +,ন\n(d) ষ + ন, হ + ন\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<c>"
+  },
+  {
+    "prompt": "<Question>\n'উষ্ণ' শব্দের 'ষ্ণ' যুক্তাক্ষরের বিশিষ্ট রূপ-\nOptions:\n(a) ষ্‌ + ঞ\n(b) ষ্‌ + ম\n(c) ষ্‌ + ণ\n(d) ষ্‌ + ন\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<c>"
+  },
+  {
+    "prompt": "<Question>\n'কার' কী?\nOptions:\n(a) স্বরধ্বনির সংক্ষিপ্ত রূপ\n(b) ব্যঞ্জনধ্বনির সংক্ষিপ্ত রূপ\n(c) স্বরধ্বনির ধ্বনিচিহ্ন\n(d) ব্যঞ্জনবর্ণের ধ্বনিচিহ্ন\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<a>"
+  },
+  {
+    "prompt": "<Question>\nনিচের কোন বানানে মূর্ধন্য 'ণ' - এর ব্যবহারে হয়েছে?\nOptions:\n(a) মহ্যাহ্ন\n(b) বিপন্ন\n(c) তৃষ্ণা\n(d) রত্ন\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<c>"
+  },
+  {
+    "prompt": "<Question>\nনিচের কোনটি একটি যুক্তাক্ষর?\nOptions:\n(a) ঐ\n(b) ই\n(c) ঔ\n(d) ষ্ণ\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<d>"
+  }
+]

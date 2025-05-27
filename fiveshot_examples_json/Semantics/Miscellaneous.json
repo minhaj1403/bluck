@@ -1,0 +1,22 @@
+[
+  {
+    "prompt": "<Question>\nশুদ্ধ বাক্যটি নির্দেশ করুন -\nOptions:\n(a) বিরাট গরু-ছাগলের হাট\n(b) বিরাট গরু বিরাট ছাগলের হাট\n(c) গরু-ছাগলের বিরাট হাট\n(d) বিরাট গবাদি পশুর হাট\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<c>"
+  },
+  {
+    "prompt": "<Question>\nকোন বানানটি শুদ্ধ?\nOptions:\n(a) মরিচিকা\n(b) মরিচীকা\n(c) মরীচিকা\n(d) মরীচীকা\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<c>"
+  },
+  {
+    "prompt": "<Question>\nকোনটি শুদ্ধ বাক্য?\nOptions:\n(a) একটি গোপন কথা বলি\n(b) একটি গোপনীয় কথা বলি\n(c) এক গুপ্ত কথা বলি\n(d) একটি গোপনীয়তার কথা বলি\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<b>"
+  },
+  {
+    "prompt": "<Question>\n'পার হইয়া' এই ক্রিয়া পদের সাধু রূপটি চলিত রূপে রূপান্তর করলে হবে-\nOptions:\n(a) পার হয়ে\n(b) পারায়ে\n(c) পেরিয়ে\n(d) পার হইয়ে\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<c>"
+  },
+  {
+    "prompt": "<Question>\nনিচের কোন বাক্যটি শুদ্ধ?\nOptions:\n(a) সে এমন রূপসী যেন অপ্সরী।\n(b) সে এমন রূপবতী যেন অপ্সরা।\n(c) সে এমন রূপবতী যেন অপ্সরী।\n(d) সে এমন রূপসী যেন অপ্সরা।\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<b>"
+  }
+]

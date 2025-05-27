@@ -1,0 +1,22 @@
+[
+  {
+    "prompt": "<Question>\nময়মনসিংহ ও শেরপুরে ফকির সন্ন্যাসী আন্দোলনের নেতা ছিলেন-\nOptions:\n(a) ফকির মজনু শাহ\n(b) ফকির মুসা শাহ\n(c) ফকির আফগান শাহ\n(d) ফকির বুগরা শাহ\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<a>"
+  },
+  {
+    "prompt": "<Question>\nবিধবা বিবাহ আইন প্রচলনে কার অবদান ছিল?\nOptions:\n(a) রাজা রামমোহন রায়\n(b) দেবেন্দ্রনাথ ঠাকুর\n(c) মৃত্যুঞ্জয় বিদ্যালংকার\n(d) ঈশ্বরচন্দ্র বিদ্যাসাগর\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<d>"
+  },
+  {
+    "prompt": "<Question>\nব্রিটিশ বিরোধী প্রথম প্রতিরোধ আন্দোলন কোনটি?\nOptions:\n(a) ফকির সন্ন্যাসী আন্দোলন\n(b) তিতুমিরের আন্দোলন\n(c) সূর্যসেনের আন্দোলন\n(d) ফরায়েজি আন্দোলন\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<a>"
+  },
+  {
+    "prompt": "<Question>\nপূর্ব বাংলার ও আসামের প্রথম লেফটেন্যান্ট গভর্নর কে ছিলেন?\nOptions:\n(a) ফুলার\n(b) কার্জন\n(c) মিন্টো\n(d) হেস্টিংস\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<a>"
+  },
+  {
+    "prompt": "<Question>\nমাস্টারদা সূর্যসেনের ফাঁসি কার্যকর হয়েছিল?\nOptions:\n(a) আন্দামানে\n(b) মেদিনীপুরে\n(c) ব্যারাকপুরে\n(d) চট্টগ্রামে\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<d>"
+  }
+]

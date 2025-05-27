@@ -1,0 +1,22 @@
+[
+  {
+    "prompt": "<Question>\n'সংহত' এর বিপরীতার্থক শব্দ কোনটি?\nOptions:\n(a) বিবৃত\n(b) বিভক্ত\n(c) অসংযত\n(d) অশক্ত\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<b>"
+  },
+  {
+    "prompt": "<Question>\n'সচেষ্ট'-এর সঠিক বিপরীত শব্দ কোনটি?\nOptions:\n(a) অশিষ্ট\n(b) অনিষ্ট\n(c) লঘিষ্ট\n(d) নিশ্চেষ্ট\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<d>"
+  },
+  {
+    "prompt": "<Question>\n'খবর' - এর বিপরীতার্থক শব্দ-\nOptions:\n(a) বার্তা\n(b) সংবাদ\n(c) জিজ্ঞাসা\n(d) তত্ত্ব\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<c>"
+  },
+  {
+    "prompt": "<Question>\nঅর্থের অপকর্ষ ঘটেনি কোন শব্দে?\nOptions:\n(a) অর্বাচীন\n(b) বিরক্ত\n(c) ইতর\n(d) উৎসাহ\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<d>"
+  },
+  {
+    "prompt": "<Question>\n'প্রাচী' শব্দের বিপরীত শব্দ কোনটি?\nOptions:\n(a) প্রচীতী\n(b) প্রতীচী\n(c) প্রতিচী\n(d) প্রীতিচী\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<b>"
+  }
+]

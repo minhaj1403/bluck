@@ -1,0 +1,22 @@
+[
+  {
+    "prompt": "<Question>\nপর্তুগিজ 'আনানস' বাংলায় 'আনারস' - এটি কী ধরনের পরিবর্তন?\nOptions:\n(a) সাদৃশ্য \n(b) বৈসাদৃশ্য\n(c) অর্থগত\n(d) ধ্বনিতাত্ত্বিক\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<d>"
+  },
+  {
+    "prompt": "<Question>\nঘোষীভবনের উদাহরণ কোনটি?\nOptions:\n(a) শাক > শাগ\n(b) পুকুর > পুথুর\n(c) কাঠ > কাট\n(d) বাবু > বাপু\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<a>"
+  },
+  {
+    "prompt": "<Question>\nনিচের কোনটি ধ্বনি পরিবর্তনের উদাহরণ নয়?\nOptions:\n(a) প্রাতিপদিক\n(b) অভিশ্রুতি\n(c) অপিনিহিতি\n(d) ধ্বনিবিপর্যয়\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<a>"
+  },
+  {
+    "prompt": "<Question>\nফাল্গুন > ফাগুন - ধ্বনি পরিবর্তনের কোন প্রক্রিয়া এখানে কার্যকর হয়েছে?\nOptions:\n(a) ধ্বনিবিকার\n(b) শ্রুতিধ্বনি\n(c) অন্তর্হতি\n(d) ধ্বনি বিপর্যয়\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<c>"
+  },
+  {
+    "prompt": "<Question>\nশরীর > শরীল কোন ধরনের ধ্বনি পরিবর্তন?\nOptions:\n(a) স্বরলোপ\n(b) বিষমীভবন\n(c) অভিশ্রুতি\n(d) বর্ণ বিকৃতি\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<b>"
+  }
+]

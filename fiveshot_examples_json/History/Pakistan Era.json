@@ -1,0 +1,22 @@
+[
+  {
+    "prompt": "<Question>\nমুক্তিবাহিনীর 'ওয়ার স্ট্যাটেজি' কী নামে পরিচিতি?\nOptions:\n(a) তেলিয়াপাড়া স্ট্যাটেজি\n(b) বাঘাইছড়ি স্ট্যাটেজি\n(c) মুজিবনগর স্ট্যাটেজি\n(d) আগরতলা স্ট্যাটেজি\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<a>"
+  },
+  {
+    "prompt": "<Question>\nঐতিহাসিক ৬-দফা দাবিতে কোন দু'টি বিষয় কেন্দ্রিক সরকার হাতে রাখার প্রস্তাব ছিল?\nOptions:\n(a) বৈদেশিক বাণিজ্য ও প্রতিরক্ষা\n(b) অর্থ ও পররাষ্ট্র\n(c) স্বরাষ্ট্র ও পরিকল্পনা\n(d) প্রতিরক্ষা ও পররাষ্ট্র\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<d>"
+  },
+  {
+    "prompt": "<Question>\nক্ষুদ্র-নৃগোষ্ঠী জনসমাজ থেকে বাংলাদেশের মুক্তিযুদ্ধে একমাত্র 'বীর বিক্রম' খেতাবধারী মুক্তিযোদ্ধা কে ছিলেন?\nOptions:\n(a) অরূপ মারমা\n(b) ঝিলংজা মারমা\n(c) সুকান্ত মারমা\n(d) ইউ কে চিং মারমা\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<d>"
+  },
+  {
+    "prompt": "<Question>\nমুক্তিযুদ্ধভিত্তিক স্বল্পদৈর্ঘ্য 'হুলিয়া' ছবির পরিচালক কে?\nOptions:\n(a) আমজাদ হোসেন\n(b) তানভীর মোকাম্মেল\n(c) চাষী নজরুল ইসলাম\n(d) মোরশেদুল ইসলাম\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<b>"
+  },
+  {
+    "prompt": "<Question>\n'সূর্য দীঘল বাড়ি' চলচ্চিত্রের পরিচালক কে?\nOptions:\n(a) শেখ নিয়ামত শাকের\n(b) জহির রায়হান\n(c) সুভাস দত্ত\n(d) খান আতা\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<a>"
+  }
+]

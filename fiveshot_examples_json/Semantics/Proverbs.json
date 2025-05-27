@@ -1,0 +1,22 @@
+[
+  {
+    "prompt": "<Question>\n'এঁটোপাত না যায় স্বর্গে' প্রবাদটিকে কোন অর্থ প্রকাশ পায়?\nOptions:\n(a) এক কৌশলে দুই উদ্দেশ্য সাধন\n(b) পরমুখাপেক্ষীর সমৃদ্ধি সম্ভব হয় না\n(c) পরিশ্রম না করলে সফলতা আসে না\n(d) যার যেমন ভাগ্য\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<b>"
+  },
+  {
+    "prompt": "<Question>\n'অতিশয্যে গোপন উদ্দেশ্য অর্জনের প্রকাশ' - কোন প্রবাদের সাহায্যে বোঝানো যায়?\nOptions:\n(a) অতি দর্পে হত লঙ্কা\n(b) অতি চালাকের গলায় দড়ি\n(c) অতি লোভে তাঁতি নষ্ট\n(d) অতি ভক্তি চোরের লক্ষণ\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<d>"
+  },
+  {
+    "prompt": "<Question>\n'পরের মাথায় কাঁঠাল ভাঙ্গা' বাগধারাটির অর্থ-\nOptions:\n(a) সর্বনাশ করা\n(b) অন্যকে ফাঁকি দিয়ে কার্যসিদ্ধি করা\n(c) অপকর্ম করা\n(d) নিষ্ঠুর আচরণ করা\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<b>"
+  },
+  {
+    "prompt": "<Question>\n'যে সহে সে রহে' - এর সমর্থক প্রবাদ কোনটি?\nOptions:\n(a) সবুরে মেওয়া ফলে\n(b) যার লাঠি তার মাটি\n(c) জোর যার মুল্লুক তার\n(d) বুদ্ধি যার বল তার\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<a>"
+  },
+  {
+    "prompt": "<Question>\n'সময়ের কাজে না লাগলে অসময়ের পথে ফেরানো কঠিন' - এই অর্থের সাথে প্রযোজ্য প্রবচন কোনটি?\nOptions:\n(a) নির্গুণ পুরুষের ভোজন সার, করেন সদাই মার মার\n(b) উঠন্তি মূলো পত্তনেই চেনা যায়\n(c) নদী, নারী, শৃঙ্গধারী- এ তিনে না বিশ্বাস করি\n(d) কাঁচায় না নোয়ালে বাঁশ, পাকলে করে ঠাস ঠাস\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<d>"
+  }
+]

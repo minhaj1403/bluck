@@ -1,0 +1,22 @@
+[
+  {
+    "prompt": "<Question>\nনিচের কোনটি 'মহাপ্রাণ' ধ্বনি?\nOptions:\n(a) ত\n(b) ড\n(c) ঢ\n(d) দ\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<c>"
+  },
+  {
+    "prompt": "<Question>\nকোন গুলো মহাপ্রাণ ব্যঞ্জনের উদাহরণ?\nOptions:\n(a) প, ব, ত, দ\n(b) দ্‌ স্‌ খ্‌ হ\n(c) ফ, ভ, খ, ধ\n(d) ট, ব, খ, গ\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<c>"
+  },
+  {
+    "prompt": "<Question>\nতালব্য বর্ণ কোনগুলো?\nOptions:\n(a) এ, ঐ\n(b) ই, ঈ\n(c) উ, ঊ\n(d) ও, ঔ\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<b>"
+  },
+  {
+    "prompt": "<Question>\nড় এবং ঢ় ধ্বনি দুটি কী ধ্বনি?\nOptions:\n(a) ঘোষ\n(b) তাড়ানজাত\n(c) অল্পপ্রাণ\n(d) শিস\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<b>"
+  },
+  {
+    "prompt": "<Question>\nনিচের কোনটি অঘোষ অল্পপ্রাণ ধ্বনি?\nOptions:\n(a) ভ\n(b) ঠ\n(c) ফ\n(d) চ\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<d>"
+  }
+]

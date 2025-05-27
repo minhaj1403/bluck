@@ -1,0 +1,22 @@
+[
+  {
+    "prompt": "<Question>\nনিচের কোনটি একটি যুক্তাক্ষর?\nOptions:\n(a) ঐ\n(b) ই\n(c) ঔ\n(d) ষ্ণ\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<d>"
+  },
+  {
+    "prompt": "<Question>\n'কৃষ্ণ' শব্দটিতে কোন কোন বর্ণ আছে?\nOptions:\n(a) ক + র + ষ + ঞ\n(b) ক + ঋ + ষ + ণ\n(c) ক + ড় + ষ + ন\n(d) ক + ঢ় + ষ + ঞ\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<b>"
+  },
+  {
+    "prompt": "<Question>\n'হ্ন' কোন দুটি বর্ণের যুক্তারূপ?\nOptions:\n(a) হ + ন\n(b) হ্‌ + ণ\n(c) ন + হ\n(d) ণ + হ\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<b>"
+  },
+  {
+    "prompt": "<Question>\n'কার' কী?\nOptions:\n(a) স্বরধ্বনির সংক্ষিপ্ত রূপ\n(b) ব্যঞ্জধ্বনির সংক্ষিপ্ত রূপ\n(c) স্বরধ্বনির ধ্বনিচিহ্ন\n(d) ব্যঞ্জনবর্ণের ধ্বনিচিহ্ন\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<a>"
+  },
+  {
+    "prompt": "<Question>\nনিচের কোন বানানে মূর্ধন্য 'ণ' - এর ব্যবহার হয়েছে?\nOptions:\n(a) মহ্যাহ্ন\n(b) বিপন্ন\n(c) তৃষ্ণা\n(d) রত্ন\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<c>"
+  }
+]

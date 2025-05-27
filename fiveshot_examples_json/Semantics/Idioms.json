@@ -1,0 +1,22 @@
+[
+  {
+    "prompt": "<Question>\n'রাবণের চিতা' বাগধারাটির অর্থ কি?\nOptions:\n(a) অনিষ্টে ইষ্ট লাভ\n(b) সামান্য কিছু নিয়ে ঝগড়া বাধানো\n(c) চির অশান্তি\n(d) অরাজক দেশ\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<c>"
+  },
+  {
+    "prompt": "<Question>\n'বক দেখানো' বাগধারাটির অর্থ কি?\nOptions:\n(a) কথায় পটু\n(b) অশোভনভাবে বিদ্রুপ করা\n(c) পড়ুয়া\n(d) মতিচ্ছন্ন হওয়া \n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<b>"
+  },
+  {
+    "prompt": "<Question>\n'ঘটের মরা' বাগধারাটির অর্থ কি?\nOptions:\n(a) দুর্বল\n(b) অতি বৃদ্ধ\n(c) সদ্য মৃত\n(d) ফেলনা\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<b>"
+  },
+  {
+    "prompt": "<Question>\n'তয়নাত করা' বাগধারাটির অর্থ-\nOptions:\n(a) স্থির করা\n(b) প্রস্তুত করা\n(c) বেতাল হওয়া\n(d) ভোজন করা\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<a>"
+  },
+  {
+    "prompt": "<Question>\n'সুলুক-সন্ধান' বাগধারাটির অর্থ  হলো :\nOptions:\n(a) সঠিক সংবাদ\n(b) আত্বপরিচয় লাভ\n(c) ব্যাকুল কামনা\n(d) খোঁজ-খবর\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<d>"
+  }
+]

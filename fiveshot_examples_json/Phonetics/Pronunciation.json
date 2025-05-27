@@ -1,0 +1,22 @@
+[
+  {
+    "prompt": "<Question>\nকোন শব্দে 'এ' ধ্বনির বিবৃত উচ্চারণ হয়েছে?\nOptions:\n(a) তেলাপোকা\n(b) হেথা\n(c) দেহ\n(d) শেষ\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<a>"
+  },
+  {
+    "prompt": "<Question>\n'আহ্লাদ' শব্দের প্রমিত উচ্চারণ-\nOptions:\n(a) আল্লাদ\n(b) আল্‌হাদ্‌\n(c) আহ্‌লাদ\n(d) আল্‌লাহদ\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<b>"
+  },
+  {
+    "prompt": "<Question>\nনিচের কোনটি কেন্দ্রীয় নিম্নবস্থিত স্বরধ্বনি?\nOptions:\n(a) ও\n(b) ই\n(c) আ\n(d) অ\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<c>"
+  },
+  {
+    "prompt": "<Question>\n'আহ্ববায়ক' শব্দের প্রমিত উচ্চারণ-\nOptions:\n(a) আওভায়োক্‌\n(b) আওভায়ক্‌\n(c) আহব্‌বায়ক\n(d) আহোব্‌বায়োক\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<b>"
+  },
+  {
+    "prompt": "<Question>\n'অভিনব' শব্দের শুদ্ধ উচ্চারণ কোনটি?\nOptions:\n(a) ওভিনবো\n(b) অভিনবো\n(c) ওভিনব\n(d) অভিনব\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<a>"
+  }
+]

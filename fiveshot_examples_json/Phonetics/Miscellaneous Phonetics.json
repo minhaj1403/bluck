@@ -1,0 +1,22 @@
+[
+  {
+    "prompt": "<Question>\nকোনটি সঠিক?\nOptions:\n(a) বিশ্লেষন\n(b) বিশ্লেশন\n(c) বিশ্লেষণ\n(d) বিস্লেষন\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<c>"
+  },
+  {
+    "prompt": "<Question>\nঅশুদ্ধ বানান-জোড় কোনটি?\nOptions:\n(a) পুরস্কার, পরিষ্কার\n(b) অত্যধিক, আকাঙ্ক্ষা\n(c) লবন, স্থানু\n(d) ওজোন, অস্ত্রোপাচার\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<c>"
+  },
+  {
+    "prompt": "<Question>\nনিত্য মূর্ধন্য-ণ বাচক শব্দ কোনটি?\nOptions:\n(a) তৃণ\n(b) গ্রহণ\n(c) লক্ষণ\n(d) লবণ\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<d>"
+  },
+  {
+    "prompt": "<Question>\nকোনটি শুদ্ধ বানান?\nOptions:\n(a) শ্রাবন\n(b) শ্রাবণ\n(c) স্রাবন\n(d) স্রাবণ\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<b>"
+  },
+  {
+    "prompt": "<Question>\n'ষ' বর্ণটি কোন শব্দে প্রয়োগ হয়?\nOptions:\n(a) তৎসম\n(b) দেশি\n(c) তদ্ভব\n(d) অর্ধ-তৎসম\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<a>"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "prompt": "<Question>\nসাজেক উপত্যকা কোথায় অবস্থিত?\nOptions:\n(a) খাগড়াছড়ি\n(b) বান্দরবান\n(c) রাঙামাটি\n(d) কক্সবাজার\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<c>"
+  },
+  {
+    "prompt": "<Question>\nপ্লাইস্টোসসিন চত্বর কোথায়?\nOptions:\n(a) সিলেট\n(b) মধুপুর\n(c) বান্দরবান\n(d) সুন্দরবন\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<b>"
+  },
+  {
+    "prompt": "<Question>\nটাঙ্গুয়ার হাওড় কোন জেলায় অবস্থিত?\nOptions:\n(a) সুনামগঞ্জ\n(b) হবিগঞ্জ\n(c) টাঙ্গাইল\n(d) সিলেট\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<a>"
+  },
+  {
+    "prompt": "<Question>\nবাংলাদেশের যে নদীটির নাম যমুনা, তিব্বতে সে নদীর নাম কী?\nOptions:\n(a) ব্রহ্মপুত্র\n(b) সাংপো\n(c) রাংপো\n(d) সাংগু\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<b>"
+  },
+  {
+    "prompt": "<Question>\nবাংলাদেশের বৃহত্তম হাওড়ের নাম কী?\nOptions:\n(a) হাকালুকি\n(b) হাইচর\n(c) টাঙ্গুয়ার হাওর\n(d) চলনবিল\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<a>"
+  }
+]

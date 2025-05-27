@@ -1,0 +1,22 @@
+[
+  {
+    "prompt": "<Question>\nগণপ্রজাতন্ত্রী বাংলাদেশের রাষ্ট্রপতি পদে নির্বাচিত হবার ন্যূনতম বয়স-\nOptions:\n(a) ৩০ বছর\n(b) ৩৫ বছর\n(c) ৪০ বছর\n(d) ৪৫ বছর\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<b>"
+  },
+  {
+    "prompt": "<Question>\nবাংলাদেশের সংবিধানের মূলনীতি কয়টি?\nOptions:\n(a) ছয়\n(b) দশ\n(c) চার\n(d) আট\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<c>"
+  },
+  {
+    "prompt": "<Question>\nতত্ত্বাবধায়ক সরকার ব্যবস্থা সংবিধানের কততম সংশোধনীর মাধ্যমে রদ করা হয়েছে?\nOptions:\n(a) ১২ তম\n(b) ১৩ তম\n(c) ১৪ তম\n(d) ১৫ তম\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<d>"
+  },
+  {
+    "prompt": "<Question>\nরাষ্ট্রপতির পদ শূন্য হলে বাংলাদেশে কে রাষ্ট্রপতি দায়িত্ব পালন করেন?\nOptions:\n(a) প্রধানমন্ত্রী\n(b) স্পিকার\n(c) প্রধান বিচারপতি\n(d) সেনাবাহিনী প্রধান\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<b>"
+  },
+  {
+    "prompt": "<Question>\nবাংলাদেশ জাতীয় সংসদে সংরক্ষিত নারী আসন কতটি?\nOptions:\n(a) ৫০\n(b) ৩০\n(c) ৩৫\n(d) ৪৫\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<a>"
+  }
+]

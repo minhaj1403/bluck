@@ -1,0 +1,22 @@
+[
+  {
+    "prompt": "<Question>\n'ট' তার ছেলের মঙ্গলের জন্য একজন সার্জনকে দিয়ে অপারেশন করাতে চায়। সার্জন শিশুটির পিতার নিকট থেকে অনুমতি নিয়ে অপারেশন করে। শিশুটি মারা যায়। সার্জনের অপরাধ কি?\nOptions:\n(a) নিন্দনীয় নরহত্যা\n(b) খুন\n(c) ভুলবশত খুন\n(d) কোন অপরাধ হয়নি\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<d>"
+  },
+  {
+    "prompt": "<Question>\n'ক', 'খ' এর বৈধ চলাচলের রাস্তায় অর্ধেক অংশে নতুন বাড়ি নির্মাণ করেন এবং উক্ত পথ বন্ধ করে দেওয়ার হুমকি দেন। এক্ষেত্রে The Specific Relief Act, 1877 অনুসারে 'খ' এর সর্বোত্তম প্রতিকার কী?\nOptions:\n(a) বাধ্যতামূলক ও চিরস্থায়ী নিষেধাজ্ঞা\n(b) খাস দখল পুনরুদ্ধার\n(c) চিরস্থায়ী নিষেধাজ্ঞা\n(d) ঘোষণা ও খাস দখল পুনরুদ্ধার\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<a>"
+  },
+  {
+    "prompt": "<Question>\nনালিশী দরখাস্ত দাখিলের সময় নালিশকারীর জবানবন্দি গ্রহণ করবে\nOptions:\n(a) বিচারিক করার এখতিয়ারসম্পন্ন ম্যাজিস্ট্রেট\n(b) অপরাধ আমলে গ্রহণকারী ম্যাজিস্ট্রেট\n(c) বিচারিক দায়রা জজ\n(d) নিকটতম জুডিসিয়াল ম্যাজিস্ট্রেট\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<b>"
+  },
+  {
+    "prompt": "<Question>\nকোন ক্ষেত্রে ডিক্রিদার দায়িকের বিরুদ্ধে জারী মামলা করতে পারে না?\nOptions:\n(a) দখল উদ্ধারের ডিক্রি\n(b) স্বত্ব ঘোষণার ডিক্রি\n(c) বাটোয়ারার চূড়ান্ত ডিক্রি\n(d) স্থায়ী নিষেধাজ্ঞার ডিক্রি\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<b>"
+  },
+  {
+    "prompt": "<Question>\n'ক', 'খ' এর ক্লাবে গান গাওয়ার চুক্তিতে আবদ্ধ হয়েও ইচ্ছাকৃত অনুপস্থিত থাকায় 'খ', 'গ' কে দিয়ে গান গাওয়ান। এক্ষেত্রে The Contract Act, ১৮৭২ অনুসারে কোনটি সঠিক?\nOptions:\n(a) খ' চুক্তি বাতিল করতে পারেন।\n(b) ক', 'খ' কে ক্ষতিপূরণ দিতে বাধ্য নন।\n(c) ক' চুক্তি পালনে বাধ্য নন।\n(d) ক' ক্ষতিপূরণ দাবী করতে পারেন।\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<a>"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "prompt": "<Question>\n'আলপনা' বাংলাদেশের অন্যতম প্রধান-\nOptions:\n(a) কারুশিল্প\n(b) কুটিরশিল্প\n(c) দারুশিল্প\n(d) লোকশিল্প\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<d>"
+  },
+  {
+    "prompt": "<Question>\nনাট্যকার দীনবন্ধু মিত্র রচিত নাটক কোনটি?\nOptions:\n(a) বিয়ে পাগল বুড়ো\n(b) সাজাহান\n(c) কৃষ্ণকুমারী\n(d) হীরাঝিল\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<a>"
+  },
+  {
+    "prompt": "<Question>\nমহাকবি আলাওল রচিত কাব্যগ্রন্থ কোনটি?\nOptions:\n(a) চন্দ্রাবতী\n(b) পদ্মাবতী\n(c) মধুমালতি\n(d) লাইলি মজনু\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<b>"
+  },
+  {
+    "prompt": "<Question>\n১৯৪৩-এর মন্বন্তরের সঙ্গে প্রাসঙ্গিক যে চিত্রশিল্পী-\nOptions:\n(a) কামরুল হাসান\n(b) সফীউদ্দিন আহমেদ\n(c) জয়নুল আবেদিন\n(d) এস এম সুলতান\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<c>"
+  },
+  {
+    "prompt": "<Question>\n'মেঘদূত কাব্য' কার লেখা?\nOptions:\n(a) পল্লীকবি জসীমউদ্দীন\n(b) বিশ্বকবি রবীন্দ্রনাথ ঠাকুর\n(c) মহাকবি কালিদাস\n(d) ছন্দের কবি সত্যেন্দ্রনাথ দত্ত\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<c>"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "prompt": "<Question>\n'কিরণ' এর সমার্থক শব্দ নয়-\nOptions:\n(a) রশ্মি\n(b) রবি\n(c) কর\n(d) প্রভা\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<b>"
+  },
+  {
+    "prompt": "<Question>\nচন্দ্র এর প্রতিশব্দ কোনটি?\nOptions:\n(a) আদিত্য\n(b) মার্তণ্ড\n(c) সবিতা\n(d) সুধাংশু\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<d>"
+  },
+  {
+    "prompt": "<Question>\n'বৃক্ষ' শব্দের সমার্থক নয় কোনটি?\nOptions:\n(a) তরু\n(b) বিটপী\n(c) কানন\n(d) মহিরুহ\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<c>"
+  },
+  {
+    "prompt": "<Question>\n'বসুমতী' শব্দটির সমার্থক কোনটি?\nOptions:\n(a) ফুল\n(b) নগ\n(c) গিরি\n(d) ধরিত্রী\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<d>"
+  },
+  {
+    "prompt": "<Question>\n'সমুদ্র' শব্দের সমার্থক শব্দ নয় কোনটি?\nOptions:\n(a) বারিধি\n(b) অদ্রি\n(c) মকরালয়\n(d) অর্ণব\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<b>"
+  }
+]

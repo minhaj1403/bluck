@@ -1,0 +1,22 @@
+[
+  {
+    "prompt": "<Question>\n'নিন্দা করার ইচ্ছা' - এর এক কথায় প্রকাশ কী হবে?\nOptions:\n(a) নিন্দার্হ্য\n(b) নিন্দিচ্ছা\n(c) জুগুপ্সা\n(d) নিন্দনীয়\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<c>"
+  },
+  {
+    "prompt": "<Question>\n'রাত্রির শেষ ভাগ' এক কথায়-\nOptions:\n(a) পররাত্র\n(b) মহানিশা\n(c) যামিনী\n(d) রাত্রিশেষ\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<a>"
+  },
+  {
+    "prompt": "<Question>\nমাসের শেষ দিনকে এক কথায় কী বলা হয়?\nOptions:\n(a) একাদশী\n(b) মাসান্ত\n(c) প্রতিপদ\n(d) সংক্রান্তি\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<d>"
+  },
+  {
+    "prompt": "<Question>\n'যা কষ্টে জয় করা যায়' এক কথায় কি হবে?\nOptions:\n(a) কষ্টার্জিত\n(b) পরিশ্রমলব্ধ\n(c) দুর্জয়\n(d) দুর্লভ\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<c>"
+  },
+  {
+    "prompt": "<Question>\nনিমন্ত্রণ না করা সত্ত্বেও যিনি উপস্থিত-\nOptions:\n(a) মেজবান\n(b) অনিমন্ত্রিত\n(c) অনাহুত\n(d) কোনোটিই নয়\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<c>"
+  }
+]

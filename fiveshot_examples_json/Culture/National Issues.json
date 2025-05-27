@@ -1,0 +1,22 @@
+[
+  {
+    "prompt": "<Question>\nগণপ্রজাতন্ত্রী বাংলাদেশের মনোগ্রামে কয়টি তারকাচিহ্ন রয়েছে?\nOptions:\n(a) ৪ টি\n(b) ৬ টি\n(c) ৫ টি\n(d) ২ টি\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<a>"
+  },
+  {
+    "prompt": "<Question>\nবাংলাদেশের জাতীয় প্রতীকে যে তারকাগুলো রয়েছে তা দিয়ে কী বুঝানো হয়েছে? \nOptions:\n(a) অর্থনীতি\n(b) লক্ষ্য ও উচ্চাকাঙ্ক্ষা\n(c) অঙ্গীকার\n(d) বাহাত্তরের সংবিধানের মূলনীতিসমূহ\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<d>"
+  },
+  {
+    "prompt": "<Question>\nবাংলাদেশের জাতীয় সংগীতের ইংরেজি অনুবাদক-\nOptions:\n(a) সিরাজুল ইসলাম\n(b) সৈয়দ আলী আহসান\n(c) আনিসুজ্জামান\n(d) কবীর চৌধুরী\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<b>"
+  },
+  {
+    "prompt": "<Question>\nকোন তারিখে বাংলাদেশের জাতীয় পতাকা সরকারিভাবে গৃহীত হয়?\nOptions:\n(a) ১৭ জানুয়ারি ১৯৭২\n(b) ১৬ জানুয়ারি ১৯৭১\n(c) ২৬ মার্চ ১৯৭১\n(d) ১৭ এপ্রিল ১৯৭১\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<a>"
+  },
+  {
+    "prompt": "<Question>\nবাংলাদেশের জাতীয় গাছের নাম কি?\nOptions:\n(a) কলাগাছ\n(b) আমগাছ\n(c) কাঁঠালগাছ\n(d) আপেল গাছ\n</Question>\n\n<Instruction>Give the final answer as a single letter inside angle bracket (<a>, <b>, <c>, or <d>). Do not output any additional text or explanation for the answer.</Instruction>\n\nAnswer:",
+    "answer": "<b>"
+  }
+]
